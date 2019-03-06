@@ -1,0 +1,23 @@
+.container{
+  padding:50px 400px 20px 400px;
+  height:100vh;
+}
+#screen{
+  margin: 0px 0px 12px 0px;
+  padding: 10px;
+  font-size: 50px;
+  text-align: right;
+  min-height:100px;
+  min-width: 100%;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  -ms-word-break: break-all;
+  word-break: break-all;
+}
+.button{
+  width:100%
+}
+#footer{
+  text-align: center;
+  margin-top:100px;
+}
